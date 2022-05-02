@@ -1,0 +1,10 @@
+sshtunnel
+sqlalchemy
+paramiko
+psycopg2-binary
+PyYAML
+pandas
+ipykernel
+fuzzywuzzy==0.18.0
+requests
+jupyter
