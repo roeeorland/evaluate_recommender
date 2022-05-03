@@ -1,2 +1,4 @@
 recommender_evaluation_env
-
+.ipynb_checkpoints/
+*.csv
+.DS_Store
